@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/noalabs/.android/build-cache/350d922b2fcbaf63dfa55d910e7d2c1efb2192ad/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/noalabs/.android/build-cache/350d922b2fcbaf63dfa55d910e7d2c1efb2192ad/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/noalabs/.android/build-cache/350d922b2fcbaf63dfa55d910e7d2c1efb2192ad/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/noalabs/.android/build-cache/350d922b2fcbaf63dfa55d910e7d2c1efb2192ad/output/res/layout-v21/notification_action.xml"
+    }
+]

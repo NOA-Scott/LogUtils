@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml
+		INJECTED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml
+		INJECTED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml
+		INJECTED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:6:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:10:5-84
+	android:name
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:10:22-81
+application
+ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:12:5-32:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/noalabs/.android/build-cache/350d922b2fcbaf63dfa55d910e7d2c1efb2192ad/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/noalabs/.android/build-cache/ee616ddf5348b34ef759739ed043be13ef4ec115/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/noalabs/.android/build-cache/3f9c20eeead13f5dea0480a2a3b3ae5e77cc2051/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:cardview-v7:25.1.1] /Users/noalabs/.android/build-cache/d36005f93e3dee999c0f9def884d51739f2655a7/output/AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /Users/noalabs/.android/build-cache/36c9ad3d2cb650c57706af4c66db19b11af03942/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /Users/noalabs/.android/build-cache/a14e21238c55fe5be243cce1ed8ecc9d5916ac27/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/noalabs/.android/build-cache/2692e705b42b735031b06b0a71b36ef28db8e563/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/noalabs/.android/build-cache/f1f8ef06f854916558e26242289d4637a280c2e8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/noalabs/.android/build-cache/f47c88f4091937bc22bdc372dd69f542a2e46e05/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/noalabs/.android/build-cache/a5e8d73d867dec9b470114fe6be7667544c08b4d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /Users/noalabs/.android/build-cache/0f8264aded027a3b83caafdb4fbb2444dc0f39ca/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:17:9-35
+	android:allowBackup
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:13:9-31
+activity#scott.noa.com.cry.ui.HomeActivity
+ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:19:19-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:23:27-74
+activity#scott.noa.com.cry.ui.Test1Activity
+ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:26:9-54
+	android:name
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:26:19-51
+activity#scott.noa.com.cry.ui.CashewActivity
+ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:27:9-54
+	android:name
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:27:19-52
+activity#scott.noa.com.cry.ui.FilterActivity
+ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:28:9-54
+	android:name
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:28:19-52
+service#scott.noa.com.cry.service.BluetoothBleService
+ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:30:9-64
+	android:name
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:30:18-61
+service#scott.noa.com.cry.service.BootBluetoothService
+ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:31:9-65
+	android:name
+		ADDED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml:31:18-62
+uses-sdk
+INJECTED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/noalabs/.android/build-cache/350d922b2fcbaf63dfa55d910e7d2c1efb2192ad/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/noalabs/.android/build-cache/ee616ddf5348b34ef759739ed043be13ef4ec115/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/noalabs/.android/build-cache/3f9c20eeead13f5dea0480a2a3b3ae5e77cc2051/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:cardview-v7:25.1.1] /Users/noalabs/.android/build-cache/d36005f93e3dee999c0f9def884d51739f2655a7/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] /Users/noalabs/.android/build-cache/b4514df9140ff2b7dbe27705b597fcf56c080dec/output/AndroidManifest.xml:20:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/noalabs/.android/build-cache/abb656a1243cee9e5313d1e7c62cb0d41414b33c/output/AndroidManifest.xml:19:5-43
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /Users/noalabs/.android/build-cache/36c9ad3d2cb650c57706af4c66db19b11af03942/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.databinding:adapters:1.3.1] /Users/noalabs/.android/build-cache/80c84b8806547aa14a806573ccff0fd9cd74b933/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /Users/noalabs/.android/build-cache/a01a7e920d761cd1197011d8e09ab2ee0c8366d8/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:25.1.1] /Users/noalabs/.android/build-cache/a14e21238c55fe5be243cce1ed8ecc9d5916ac27/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/noalabs/.android/build-cache/2692e705b42b735031b06b0a71b36ef28db8e563/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/noalabs/.android/build-cache/f1f8ef06f854916558e26242289d4637a280c2e8/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/noalabs/.android/build-cache/f47c88f4091937bc22bdc372dd69f542a2e46e05/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/noalabs/.android/build-cache/a5e8d73d867dec9b470114fe6be7667544c08b4d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] /Users/noalabs/.android/build-cache/0f8264aded027a3b83caafdb4fbb2444dc0f39ca/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] /Users/noalabs/.android/build-cache/350d922b2fcbaf63dfa55d910e7d2c1efb2192ad/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml
+		INJECTED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml
+		INJECTED from /Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/src/main/AndroidManifest.xml

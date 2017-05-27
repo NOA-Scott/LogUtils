@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrays">
+        <item>@drawable/go</item>
+        <item>@array/sensor</item>
+        <item>@array/tap</item>
+        <item>@array/cashew</item>
+    </string-array>
+    
+    <string-array name="sensor">
+        <item>@drawable/go</item>
+        <item>FenSens Sensor</item>
+        <item>FenSens Sensor 测试</item>
+        <item>FenSens</item>
+    </string-array>
+
+    <string-array name="tap">
+        <item>@drawable/go</item>
+        <item>FenSens Tap</item>
+        <item>FenSens Tap 测试</item>
+        <item>button</item>
+    </string-array>
+
+    <string-array name="cashew">
+        <item>@drawable/go</item>
+        <item>Cashew</item>
+        <item>Cashew 测试</item>
+        <item>Cashew</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NOATester</string>
+    <string name="state">Test State:</string>
+    <string name="logs">Test Logs:</string>
+
+    <string name="Home">Home</string>
+    <string name="send">Send</string>
+</resources>

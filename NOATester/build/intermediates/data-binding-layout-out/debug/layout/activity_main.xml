@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                  
+
+    
+
+                                                                     
+
+                 
+                          
+                              
+
+               
+                          
+                                                         
+
+                 
+                         
+                            
+
+                 
+                       
+                                                        
+
+
+                                           
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:orientation="vertical" android:tag="layout/activity_main_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tool="http://schemas.android.com/tools">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/state" />
+
+        <TextView
+            tool:text="adacs"
+            android:tag="binding_1"        
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/textview_border"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:tag="binding_2"                          
+                    tool:text="Id:6" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:tag="binding_3"                              
+                    tool:text="Name:FenSens123456" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:tag="binding_4"                            
+                    tool:text="Mac:12:WE:WR:AD:AA" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:tag="binding_5"                                              
+                    tool:text="L-R:100-200" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:tag="binding_6"                                    
+                    tool:text="Battery:100" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:tag="binding_7"                        
+                    tool:text="V:3100" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:tag="binding_8"                              
+                    tool:text="RSSI:-56" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:tag="binding_9"                              
+                    tool:text="Data:AT+STOP" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:tag="binding_10"     
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="30sp"
+                                                                             
+                tool:text="测试通过" />
+
+        </RelativeLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:visibility="gone">
+
+            <CheckBox
+                android:id="@id/checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Write ID" />
+
+            <android.support.v7.widget.AppCompatEditText
+                android:id="@id/idBox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:visibility="gone" />
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@id/sendId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:tag="binding_11"           
+                                                        
+                android:text="@string/send"
+                android:textAllCaps="false"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/logs" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="100">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:tag="binding_12"    
+                android:textSize="8sp" />
+
+        </ScrollView>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal">
+
+            <Button
+                android:id="@id/start"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="28dp"
+                android:tag="binding_13"            
+                                                        
+                android:text="Start" />
+
+            <Button
+                android:id="@id/stop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/start"
+                android:tag="binding_14"           
+                                                        
+                android:text="Stop" />
+        </RelativeLayout>
+
+    </LinearLayout>
+         

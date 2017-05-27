@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fensens" type="id" />
+
+    <item name="auto" type="id" />
+    <item name="stop" type="id" />
+    <item name="start" type="id" />
+
+    <item name="menus" type="id"/>
+
+    <item name="icon" type="id"/>
+    <item name="title" type="id"/>
+    <item name="desc" type="id"/>
+    <item name="checkBox" type="id"/>
+    <item name="idBox" type="id"/>
+    <item name="sendId" type="id"/>
+</resources>

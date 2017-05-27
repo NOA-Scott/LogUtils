@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/noalabs/.android/build-cache/350d922b2fcbaf63dfa55d910e7d2c1efb2192ad/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/noalabs/NOA-Labs/Android/NOA-Labs/Testing/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/noalabs/.android/build-cache/350d922b2fcbaf63dfa55d910e7d2c1efb2192ad/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
